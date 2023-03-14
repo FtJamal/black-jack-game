@@ -13,9 +13,21 @@ h1 {
     color: goldenrod;
 }
 
+#player-name {
+    background-color: #016f32;
+    border: 3px solid goldenrod;
+    border-radius: 7px;
+    padding: 5px;
+    text-indent: 5px;
+    color: aliceblue;
+    text-transform: uppercase;
+    outline: none;
+}
+
 #message-el {
     font-style: italic;
 }
+
 
 button {
     color: #016f32;
